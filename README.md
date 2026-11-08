@@ -1,2 +1,2 @@
-# My-Java-
-Practical
+# MyJava
+Practical tasks 
